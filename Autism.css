@@ -1,5 +1,10 @@
 .nav-item{
-    float: right;
-    padding-left: 20px;
-    background-color: blue;
+    position: absolute;
+    width: 1548px;
+    height: 196px;
+    left: -62px;
+    top: 17px;
+    
+    background: #4169E1;
+    border-radius: 50px;
 }
