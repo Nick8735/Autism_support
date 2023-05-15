@@ -9,6 +9,6 @@ background-color: #4169E1;
 border-radius: 50px;
 
 }
-.nav-item{
-    color: #ffffff;
+.navbar-custom .navbar-nav .nav-link {
+    color: #ffffff; 
 }
