@@ -12,13 +12,10 @@ border-radius: 50px;
     color: #ffffff; 
    }
    .bubble-boy{
-position: absolute;
+float: left;
 width: 407px;
 height: 407px;
-left: 142px;
-top: 279px;
-
-overflow: hidden;
+margin-right: 20px;
    }
    .bubble-boy img{
       max-width: 100%;
