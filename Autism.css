@@ -12,4 +12,8 @@ border-radius: 50px;
     color: #ffffff; 
 }
 .position{
-float: right;}
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;}
