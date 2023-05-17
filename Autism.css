@@ -12,7 +12,7 @@ border-radius: 50px;
     color: #ffffff; 
    }
    .bubble-boy{
-position: absolute;
+position: relative;
 width: 407px;
 height: 407px;
 left: 142px;
@@ -21,7 +21,8 @@ top: 279px;
    .bubble-boy img{
       max-width: 100%;
       height: auto;
+      margin-right: 10px;
    }
 .text-container{
-   float: right;
+   float: left;
 }
