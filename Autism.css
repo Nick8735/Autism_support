@@ -10,10 +10,5 @@ border-radius: 50px;
 }
 .navbar-custom .navbar-nav .nav-link {
     color: #ffffff; 
+    float: right;
 }
-.position{
- list-style-type: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  justify-content: flex-end;}
