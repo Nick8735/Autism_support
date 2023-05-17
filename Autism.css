@@ -22,3 +22,6 @@ top: 279px;
       max-width: 100%;
       height: auto;
    }
+.text-container{
+   float: right;
+}
