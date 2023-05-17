@@ -17,11 +17,12 @@ width: 407px;
 height: 407px;
 left: 142px;
 top: 279px;
+float: left;
    }
    .bubble-boy img{
       max-width: 100%;
       height: auto;
          }
-.text-container{
+.text{
    float: left;
 }
