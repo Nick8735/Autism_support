@@ -18,12 +18,13 @@ height: 407px;
 left: 142px;
 top: 279px;
 display: flex;
+overflow: hidden;
    }
    .bubble-boy img{
       max-width: 100%;
       height: auto;
-      flex-shrink: 0;
+      margin-right: 10px;
          }
-.text{
-   margin-left: 10px;
+.text-container{
+overflow: hidden;
    }
