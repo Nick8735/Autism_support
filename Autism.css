@@ -22,7 +22,8 @@ display: flex;
    .bubble-boy img{
       max-width: 100%;
       height: auto;
+      flex-shrink: 0;
          }
 .text{
-   margin-right: 10px;
+   margin-left: 10px;
    }
