@@ -25,3 +25,12 @@ margin-right: 20px;
 .text-container{
 overflow: hidden;
    }
+   .special-link {
+      font-family: "Kristen ITC", Arial, sans-serif;
+    font-size: 40px;
+    word-wrap: break-word;
+  }
+  .special-link2{
+    font-family: "roboto", Arial, sans-serif;
+    font-size: 28px;
+  }
