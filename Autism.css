@@ -11,3 +11,10 @@ border-radius: 50px;
 .navbar-custom .navbar-nav .nav-link {
     color: #ffffff; 
    }
+   .bubble-boy{
+position: absolute;
+width: 607px;
+height: 607px;
+left: 142px;
+top: 279px;
+   }
