@@ -20,7 +20,7 @@ margin-right: 20px;
    .bubble-boy img{
       max-width: 100%;
       height: auto;
-      margin-right: 10px;
+      margin: 156px;
          }
 .text-container{
    font-style: normal;
@@ -38,8 +38,4 @@ margin-right: 20px;
   .special-link2{
     font-family: "roboto", Arial, sans-serif;
     font-size: 28px;
-  }
-  body{
-margin:156px;
-
   }
