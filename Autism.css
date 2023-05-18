@@ -20,15 +20,14 @@ margin-right: 20px;
    .bubble-boy img{
       max-width: 100%;
       height: auto;
-      margin: 156px;
+      margin: 0;
          }
 .text-container{
    font-style: normal;
    font-weight: 400;
    font-size: 36px;
-   margin-left: 400px;
-   line-height: 42px;
-text-align: justify;
+   display: flex;
+   align-items: center;
  
    }
    .special-link {
