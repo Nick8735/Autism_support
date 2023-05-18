@@ -23,7 +23,11 @@ margin-right: 20px;
       margin-right: 10px;
          }
 .text-container{
-overflow: hidden;
+   font-style: normal;
+   font-weight: 400;
+   font-size: 36px;
+   line-height: 42px;
+   text-align: justify;
    }
    .special-link {
       font-family: "Kristen ITC", Arial, sans-serif;
