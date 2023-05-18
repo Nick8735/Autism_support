@@ -12,24 +12,20 @@ border-radius: 50px;
     color: #ffffff; 
    }
    .bubble-boy{
-float: left;
-width: 407px;
-height: 407px;
+display: flex;
+align-items: center;
 margin-right: 20px;
    }
    .bubble-boy img{
       max-width: 100%;
       height: auto;
-      margin: 0;
+      margin: 10;
          }
 .text-container{
    font-style: normal;
    font-weight: 400;
    font-size: 36px;
-   display: flex;
-   align-items: center;
- 
-   }
+      }
    .special-link {
       font-family: "Kristen ITC", Arial, sans-serif;
     font-size: 40px;
