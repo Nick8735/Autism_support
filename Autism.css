@@ -55,8 +55,6 @@ margin-right: 20px;
    font-weight: bold;
   }
 .row{
-   margin-left: 142px;
-   margin-right: 142px;
-   height: 405;
-   width: auto;
-}
+   margin-left: 0;
+   margin-right: 0;
+  }
