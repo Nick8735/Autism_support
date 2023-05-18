@@ -92,6 +92,6 @@ color: #FFFFFF;
 list-style-type: none;
 }
 ul li{
-   border-left: 1px solid white;
+   border-right: 1px solid white;
    padding left: 10px;
 }
