@@ -93,5 +93,4 @@ list-style-type: none;
 }
 ul li{
    border-right: 1px solid white;
-   padding left: 10px;
-}
+   padding: left; }
