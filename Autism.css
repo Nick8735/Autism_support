@@ -104,8 +104,7 @@ margin: 20px;
   .card .back {
    transform: perspective(600px
    ) rotateY('180deg');
-   background-color: #ff3cac;
-     }
+        }
 .card:hover .front{
    transform: perspective(600px
    ) rotateY('180deg');
