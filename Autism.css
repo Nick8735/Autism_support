@@ -74,6 +74,14 @@ top: 2755px;
 background: #4194E1;
 border-radius: 50px;
   }
+
+  .card {
+position: relative;
+width: 300px;
+height: 350px;
+margin: 20px;
+
+  }
   .card .face{
    position: absolute;
    width: 100%;
