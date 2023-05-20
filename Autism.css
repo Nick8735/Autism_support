@@ -75,4 +75,11 @@ background: #4194E1;
 border-radius: 50px;
   }
 
- 
+  .text-container3{
+   font-family: 'Roboto';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 30px;
+   margin-left: 142px;
+   margin-right: 142px;
+   padding-top: 80px;}
