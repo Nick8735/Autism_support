@@ -22,7 +22,7 @@ background-color: #4169E1;
       height: 405px;
       margin-left: 142px;
       margin-top: 65px;
-      
+      background-color: #4169E1;
          }
 .text-container{
    font-style: normal;
@@ -106,7 +106,7 @@ border-radius: 50px;
       font-family: 'Roboto';
       font-style: normal;
       font-weight: 400;
-      font-size: 30px;
+      font-size: 0.875rem;
       margin-left: 142px;
       margin-right: 142px;
       padding-top: 80px;
