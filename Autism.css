@@ -92,6 +92,6 @@ margin: 20px;
    transition:1.5s;
   }
   .card .face {
-   transform: perspective(600px) rotate(0deg);
+   transform: perspective(600px) rotateY(0deg);
    box-shadow: 0 5px 10px #000;
   }
