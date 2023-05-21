@@ -60,9 +60,21 @@ background-color: #4169E1;
   }
 .row{
      display: flex;
-   transition: transform 0.5s;
-  }
+     }
    /* movement of images from hover */
+
+   .row .col {
+      perspective: 1000px;
+   }
+
+   .row .col img {
+      transition: transform 0.5s;
+      transform-style: preserve-3d;
+   }
+.row .col:hover img {
+   transform: rotateY('180deg');
+}
+
   .row:hover .col:nth-child(1){
 
    transform: translateX(-50%);
