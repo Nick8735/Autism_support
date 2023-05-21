@@ -116,10 +116,11 @@ border-radius: 50px;
    background-color: #4169E1;}
 
       /* image from getting dressed page */
+
    .first-image{
       justify-content: center;
       margin-right: 142px;
       margin-left: 142px;
       background-color: #4169E1;
-      height: auto;
+      
    }
