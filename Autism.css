@@ -126,6 +126,7 @@ transition: transform 0.5s;
   }
   .row2{
    padding-left: 30px;
+   margin: 142px;
   }
   .footer{
    position: absolute;
