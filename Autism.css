@@ -111,3 +111,9 @@ border-radius: 50px;
       margin-right: 142px;
       padding-top: 80px;
    background-color: #4169E1;}
+
+   .first-image{
+      justify-content: center;
+      margin-right: 142px;
+      margin-left: 142px;
+   }
