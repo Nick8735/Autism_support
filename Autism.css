@@ -78,6 +78,10 @@ background-color: #4169E1;
    .row1 .col:last-child:hover img {
 transform:translateX(50%) ;
    }
+   .row1 .col:hover img,
+.row1 .col:last-child:hover img {
+  transform: scaleX(-1);
+}
 
    .col{
 flex: 1;
