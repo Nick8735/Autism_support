@@ -89,6 +89,7 @@ border-radius: 50px;
    padding-top: 80px;
    background-color: #4169E1;}
 
+ /* supports school and sleep page text*/
    .text-containersh{
       font-family: 'Roboto';
       font-style: normal;
@@ -102,6 +103,8 @@ border-radius: 50px;
    body{
       color: #ffffff; 
    }
+
+    /* supports eating page page */
    .text-containereh{
       font-family: 'Roboto';
       font-style: normal;
@@ -112,8 +115,11 @@ border-radius: 50px;
       padding-top: 80px;
    background-color: #4169E1;}
 
+      /* image from getting dressed page */
    .first-image{
       justify-content: center;
       margin-right: 142px;
       margin-left: 142px;
+      background-color: #4169E1;
+      height: auto;
    }
