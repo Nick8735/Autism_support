@@ -62,7 +62,7 @@ background-color: #4169E1;
      display: flex;
    transition: transform 0.5s;
   }
-
+   /* movement of images from hover */
   .row:hover .col:nth-child(1){
 
    transform: translateX(-50%);
