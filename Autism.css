@@ -101,7 +101,10 @@ border-radius: 50px;
    background-color: #4169E1;}
 
    body{
-      color: #ffffff; 
+      color: #ffffff;
+      margin-left: 142px;
+      margin-right: 142px;
+      background-color: #4169E1; 
    }
 
     /* supports eating page page */
