@@ -123,6 +123,8 @@ transition: transform 0.5s;
 
   .row1{
    padding-left: 30px;
+   margin: 142px;
+   position: absolute;
   }
   .row2{
    padding-left: 30px;
