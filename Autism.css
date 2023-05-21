@@ -133,3 +133,10 @@ border-radius: 50px;
      h2{
            text-align: center;
      }
+     .school-image{
+      justify-content: center;
+      margin-right: 142px;
+      margin-left: 142px;
+      background-color: #4169E1;
+      height: 605px;
+     }
