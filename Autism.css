@@ -123,11 +123,11 @@ transition: transform 0.5s;
 
   .row1{
    padding-left: 30px;
-  
+  padding-right: 30px;
   }
   .row2{
    padding-left: 30px;
-   
+   padding-right: 30px;
   }
   .footer{
    position: absolute;
