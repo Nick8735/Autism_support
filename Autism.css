@@ -14,19 +14,14 @@ border-radius: 50px;
    .boy-crying{
 display: flex;
 align-items: center;
-margin-right: 142px;
 background-color: #4169E1;
 margin: 65px 142px;
 padding: 20px;
-max-width: 100%;
-
-
    }
    .boy-crying img{      
-      height: auto;
+      height: 405px;
       max-width: 100%;
-          background-color: #4169E1;
-         }
+                   }
 .text-container{
    font-style: normal;
    font-weight: 400;
