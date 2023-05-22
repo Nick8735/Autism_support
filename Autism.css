@@ -36,6 +36,8 @@ max-width: 100%;
    font-family: 'Roboto';
    background-color: #4169E1;
       }
+
+        /* special links control font use throughout */
    .special-link {
       font-family: "Kristen ITC", Arial, sans-serif;
     font-size: 40px;
