@@ -138,7 +138,8 @@ transition: transform 0.5s;
 width:  1148px;
 height: 196px;
 top: 2755px;
-align-items: center;
+left: 140px;
+right: 140px;
 
 background: #4194E1;
 border-radius: 50px;
