@@ -209,5 +209,5 @@ border-radius: 50px;
      .multicolortext {
       background-image: linear-gradient(to right, red,orange,green,blue,indigo,violet);
       font-size: 28px;
-      justify-content: center;
+      text-align: center;
    }
