@@ -207,7 +207,7 @@ border-radius: 50px;
       height: 405px;
      }
      .multicolortext {
-      background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+      background-image: linear-gradient(to left, violet, indigo, green, yellow, orange, red);
       -webkit-background-clip: text;
       -moz-background-clip: text;
       background-clip: text;
