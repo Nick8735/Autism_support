@@ -23,6 +23,7 @@ position: relative;
    .boy-crying img{      
       height: 405px;
       max-width: 100%;
+      margin-right: 10px;
                    }
 .text-container{
    font-style: normal;
