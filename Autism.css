@@ -19,13 +19,14 @@ background-color: #4169E1;
 margin: 65px 142px;
 padding: 20px 0px 0px 10px;
 position: relative;
-border: 2px solid linear-gradient(to right, red,orange,green,blue,indigo,violet);
+
 
    }
    .boy-crying img{      
       height: 405px;
       max-width: 100%;
       margin-right: 10px;
+      border: 2px solid linear-gradient(to right, red,orange,green,blue,indigo,violet);
                    }
 .text-container{
    font-style: normal;
