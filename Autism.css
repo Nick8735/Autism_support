@@ -207,8 +207,11 @@ border-radius: 50px;
       height: 405px;
      }
      .multicolortext {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
       background-image: linear-gradient(to right, red,orange,green,blue,indigo,violet);
       font-size: 28px;
       text-align: center;
-      margin: 0 auto;
-   }
+         }
