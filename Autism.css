@@ -206,3 +206,9 @@ border-radius: 50px;
       background-color: #4169E1;
       height: 405px;
      }
+     .multicolortext {
+      background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+      -webkit-background-clip: text;
+      -moz-background-clip: text;
+      background-clip: text;
+      color: transparent;}
