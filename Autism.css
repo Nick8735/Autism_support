@@ -211,4 +211,5 @@ border-radius: 50px;
       -webkit-background-clip: text;
       -moz-background-clip: text;
       background-clip: text;
-         font-size: 28px;}
+      color: transparent;
+   font-size: 28px;}
