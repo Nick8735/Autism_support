@@ -19,6 +19,7 @@ background-color: #4169E1;
 margin: 65px 142px;
 padding: 20px 0px 0px 10px;
 position: relative;
+border: 2px solid linear-gradient(to right, red,orange,green,blue,indigo,violet);
 
    }
    .boy-crying img{      
