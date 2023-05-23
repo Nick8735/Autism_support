@@ -207,9 +207,5 @@ border-radius: 50px;
       height: 405px;
      }
      .multicolortext {
-      background-image: linear-gradient(to left, violet, indigo, green, yellow, orange, red);
-      -webkit-background-clip: text;
-      -moz-background-clip: text;
-      background-clip: text;
-      color: transparent;
-   font-size: 28px;}
+      background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet)
+   }
