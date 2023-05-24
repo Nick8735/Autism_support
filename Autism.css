@@ -138,25 +138,7 @@ transition: transform 0.5s;
    padding-right: 30px;
    padding-bottom: 30px;
   }
-  .footer{
-   position: absolute;
-width:  1148px;
-height: 196px;
-top: 2755px;
-left: 110px;
-right: 140px;
-bottom: 17px;
-background:  #4169E1;
-border-radius: 50px;
-color: #ffffff;
-  }
-  .footer ul{
-   list-style: none;
-   padding: 5px 0 5px 10px;
-   margin: 0;
-   
-     }
-
+ 
   .text-containerdh{
    font-family: 'Roboto';
    font-style: normal;
@@ -227,3 +209,22 @@ color: #ffffff;
       font-size: 28px;
       text-align: center;
          }
+         .footer{
+            position: absolute;
+         width:  1148px;
+         height: 196px;
+         top: 2755px;
+         left: 110px;
+         right: 140px;
+         bottom: 17px;
+         background:  #4169E1;
+         border-radius: 50px;
+         color: #ffffff;
+           }
+           .footer ul{
+            list-style: none;
+            padding: 5px 0 5px 10px;
+            margin: 0;
+            color: #ffffff;   
+              }
+         
