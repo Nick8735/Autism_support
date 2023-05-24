@@ -12,7 +12,7 @@ border-radius: 50px;
 .navbar-custom .navbar-nav .nav-link {
     color: #ffffff; 
    }
-.navbar navbar-expand-lg navbar-dark navbar-custom :hover{
+.navbarnavbar-expand-lgnavbar-darknavbar-custom :hover{
    background-color:linear-gradient(to right, red,orange,green,blue,indigo,violet); 
 }
 
