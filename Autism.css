@@ -12,6 +12,10 @@ border-radius: 50px;
 .navbar-custom .navbar-nav .nav-link {
     color: #ffffff; 
    }
+.navbar-nav :hover{
+   background-color:linear-gradient(to right, red,orange,green,blue,indigo,violet); 
+}
+
    .boy-crying{
 display: flex;
 flex-direction: column;
