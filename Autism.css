@@ -230,6 +230,7 @@ transition: transform 0.5s;
             justify-content: center;
             align-items: center;
             height: 100%;  
+            display: flex;
               }
               .footer ul li a {
                color: #ffffff;
