@@ -235,4 +235,14 @@ transition: transform 0.5s;
              .footer ul li a:hover {
                text-decoration: underline;
              }
+             .footer::before {
+               content: "";
+               position: absolute;
+               top: 20px;
+               left: 50%;
+               transform: translateX(-50%);
+               width: 2px;
+               height: 156px;
+               background-color: #ffffff;
+             }
          
