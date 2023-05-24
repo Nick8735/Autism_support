@@ -220,7 +220,7 @@ transition: transform 0.5s;
          background:  #4169E1;
          border-radius: 50px;
          color: #ffffff;
-         padding: 0 100 50;
+        
          
            }
            .footer ul{
@@ -229,7 +229,7 @@ transition: transform 0.5s;
             justify-content: center;
             align-items: center;
             height: 100%;
-            padding: 0;  
+            padding: 0 100 50 0;  
                           }
               .footer ul li a {
                color: #ffffff;
