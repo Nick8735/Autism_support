@@ -148,11 +148,13 @@ right: 140px;
 bottom: 17px;
 background:  #4169E1;
 border-radius: 50px;
+color: #ffffff;
   }
   .footer ul{
    list-style: none;
    padding: 5px 0 5px 10px;
    margin: 0;
+   
      }
 
   .text-containerdh{
