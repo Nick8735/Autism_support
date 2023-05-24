@@ -231,6 +231,10 @@ transition: transform 0.5s;
             height: 100%;
             padding: 0;  
                           }
+
+                .footer ul li {
+                  margin: 0 10px;
+                }          
               .footer ul li a {
                color: #ffffff;
                text-decoration: none;
