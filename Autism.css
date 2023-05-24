@@ -220,8 +220,7 @@ transition: transform 0.5s;
          background:  #4169E1;
          border-radius: 50px;
          color: #ffffff;
-         padding-right: 100px;
-         padding-bottom: 50px;
+         padding: 0 100 50;
            }
            .footer ul{
             list-style: none;
