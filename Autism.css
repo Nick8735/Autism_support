@@ -20,6 +20,12 @@ border-radius: 50px;
    background-image:linear-gradient(to right, red,orange,green,blue,indigo,violet);  
 }
 
+.banner{
+background-image: url(Images/banner-image.jpg);
+
+}
+
+
    .boy-crying{
 display: flex;
 flex-direction: column;
