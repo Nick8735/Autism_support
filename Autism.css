@@ -21,7 +21,7 @@ border-radius: 50px;
 }
 
 .banner{
-background-image: url(Images/banner-image.jpg);
+background-image: url("Images/banner-image.jpg");
 
 }
 
